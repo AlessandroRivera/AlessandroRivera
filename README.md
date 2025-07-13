@@ -125,8 +125,6 @@ const eduardo = {
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollando+proyectos+increíbles...;Frontend+%2B+Data+Analysis;React+%2B+TypeScript+%2B+Tailwind;¡Próximamente+más+proyectos!&font=Fira%20Code&center=true&width=600&height=50&color=F85D7F&vCenter=true&size=20&duration=3000&pause=1000">
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Proyectos Recomendados para Desarrollar:
-
 #### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="20"> Frontend Development
 - **📊 Dashboard de Análisis de Datos** - React + TypeScript + Tailwind CSS
 - **🛒 E-commerce Moderno** - Con carrito de compras y autenticación
