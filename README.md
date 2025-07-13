@@ -119,13 +119,15 @@ const eduardo = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Proyectos Destacados
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Proyectos Destacados
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollando+proyectos+increíbles...;Frontend+%2B+Data+Analysis;React+%2B+TypeScript+%2B+Tailwind;¡Próximamente+más+proyectos!&font=Fira%20Code&center=true&width=600&height=50&color=F85D7F&vCenter=true&size=20&duration=3000&pause=1000">
 </div>
 
-#### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="20"> Frontend Development
+### <img src="https://media.giphy.com/media/laUY2MuoktHPy/giphy.gif" width="25"> Proyectos Recomendados para Desarrollar:
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> Frontend Development
 - **📊 Dashboard de Análisis de Datos** - React + TypeScript + Tailwind CSS
 - **🛒 E-commerce Moderno** - Con carrito de compras y autenticación
 - **📝 Aplicación de Gestión de Tareas** - Con drag & drop y filtros avanzados
@@ -138,40 +140,40 @@ const eduardo = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Intereses
+## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30"> Intereses
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50"/>
         <br>
         <strong>Tecnologías de Desarrollo</strong>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50"/>
         <br>
         <strong>Productos Tech</strong>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="50"/>
         <br>
         <strong>Análisis de Datos</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"/>
         <br>
         <strong>Innovación en Software</strong>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"/>
         <br>
         <strong>UI/UX Design</strong>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
         <br>
         <strong>Desarrollo Web</strong>
       </td>
@@ -181,7 +183,7 @@ const eduardo = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contacto
+## <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="35"> Contacto
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Conectemos+y+colaboremos!;Siempre+abierto+a+nuevas+oportunidades;¡Contáctame!&font=Fira%20Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=18&duration=3000&pause=1000">
@@ -191,7 +193,7 @@ const eduardo = {
   <a href="https://www.linkedin.com/in/ing-eduardo-rivera">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aeriveradiaz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </div>
